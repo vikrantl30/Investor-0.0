@@ -1,5 +1,4 @@
-# Investor
-# A stock trading platform
+# Investor: A stock trading platform
 
 
 
